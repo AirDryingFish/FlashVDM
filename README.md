@@ -88,8 +88,12 @@ If you found this repository helpful, please cite our report:
 
 ```bibtex
 @misc{lai2025flashvdm,
-    title={Unleashing Vectset Diffusion Model for Fast Shape Generation},
-    author={Tencent Hunyuan3D Team},
-    year={2025},
+      title={Unleashing Vecset Diffusion Model for Fast Shape Generation}, 
+      author={Zeqiang Lai and Yunfei Zhao and Zibo Zhao and Haolin Liu and Fuyun Wang and Huiwen Shi and Xianghui Yang and Qinxiang Lin and Jinwei Huang and Yuhong Liu and Jie Jiang and Chunchao Guo and Xiangyu Yue},
+      year={2025},
+      eprint={2503.16302},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.16302}, 
 }
 ```

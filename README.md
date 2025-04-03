@@ -24,11 +24,11 @@ https://github.com/user-attachments/assets/a2cbc5b8-be22-49d7-b1c3-7aa2b20ba460
 
 
 ## What is FlashVDM?
-FlashVDM is a general framework for accelerating shape generation Vectset Diffusion Model (VDM), such as [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2), [Michelangelo](https://github.com/NeuralCarver/Michelangelo), [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D), [CLAY](https://github.com/CLAY-3D/OpenCLAY), [TripoSG](https://arxiv.org/abs/2502.06608), [Dora](https://github.com/Seed3D/Dora) and etc.
+FlashVDM is a general framework for accelerating shape generation Vecset Diffusion Model (VDM), such as [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2), [Michelangelo](https://github.com/NeuralCarver/Michelangelo), [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D), [CLAY](https://github.com/CLAY-3D/OpenCLAY), [TripoSG](https://arxiv.org/abs/2502.06608), [Dora](https://github.com/Seed3D/Dora) and etc.
 
 It features two techniques for both VAE and DiT acceleration: 
 
-1. ***Lightning Vectset Decoder*** that drastically lowers decoding FLOPs without any loss in decoding quality, achieving over **45x speedup**.
+1. ***Lightning Vecset Decoder*** that drastically lowers decoding FLOPs without any loss in decoding quality, achieving over **45x speedup**.
 2. ***Progressive Flow Distillation*** that enables flexible diffusion sampling with as few as **5 inference steps** and comparable quality.
 
 <img src="https://github.com/user-attachments/assets/bcc1f43e-4cfa-47f3-9a45-421f75cf5138"  height=250>

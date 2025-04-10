@@ -58,6 +58,7 @@ pipeline(
 
 ## Supported Models
 
+### Official 
 Hunyuan3D-2 series
 
 | Model                    | Description                 | Date       | Size | Huggingface                                                                               |
@@ -80,6 +81,11 @@ Hunyuan3D-2mv series
 | ------------------------- | --------------------------- | ---------- | ---- | -------------------------------------------------------------------------------------------- |
 | Hunyuan3D-DiT-v2-mv-Fast  | Guidance Distillation Model | 2025-03-19 | 1.1B | [Download](https://huggingface.co/tencent/Hunyuan3D-2mv/tree/main/hunyuan3d-dit-v2-mv-fast)  |
 | Hunyuan3D-DiT-v2-mv-Turbo | Step Distillation Model     | 2025-03-19 | 1.1B | [Download](https://huggingface.co/tencent/Hunyuan3D-2mv/tree/main/hunyuan3d-dit-v2-mv-turbo) |
+
+### Community
+
+- [HoloPart](https://github.com/VAST-AI-Research/HoloPart): Generative 3D Part Amodal Segmentation
+- [TripoSG](https://github.com/VAST-AI-Research/TripoSG): High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models
 
 
 ## Citation

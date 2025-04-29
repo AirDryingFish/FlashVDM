@@ -86,7 +86,9 @@ Hunyuan3D-2mv series
 
 - [HoloPart](https://github.com/VAST-AI-Research/HoloPart): Generative 3D Part Amodal Segmentation
 - [TripoSG](https://github.com/VAST-AI-Research/TripoSG): High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models
-
+- [DetailGen3D](https://github.com/VAST-AI-Research/DetailGen3D): Generative 3D Geometry Enhancement via Data-Dependent Flow
+- [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D): High-fidelity Mesh Generation
+with 3D Native Generation and Interactive Geometry Refiner
 
 ## Citation
 

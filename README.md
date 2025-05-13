@@ -89,6 +89,7 @@ Hunyuan3D-2mv series
 - [DetailGen3D](https://github.com/VAST-AI-Research/DetailGen3D): Generative 3D Geometry Enhancement via Data-Dependent Flow
 - [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D): High-fidelity Mesh Generation
 with 3D Native Generation and Interactive Geometry Refiner
+- [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D): Towards High-Fidelity and Controllable Generation of Textured 3D Assets
 
 ## Citation
 

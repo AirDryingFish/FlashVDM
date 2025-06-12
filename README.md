@@ -90,6 +90,7 @@ Hunyuan3D-2mv series
 - [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D): High-fidelity Mesh Generation
 with 3D Native Generation and Interactive Geometry Refiner
 - [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D): Towards High-Fidelity and Controllable Generation of Textured 3D Assets
+- [PartPacker](https://github.com/NVlabs/PartPacker): Efficient Part-level 3D Object Generation via Dual Volume Packing
 
 ## Citation
 

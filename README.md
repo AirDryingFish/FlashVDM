@@ -33,6 +33,25 @@ It features two techniques for both VAE and DiT acceleration:
 
 <img src="https://github.com/user-attachments/assets/bcc1f43e-4cfa-47f3-9a45-421f75cf5138"  height=250>
 
+
+#### Official Supported Model
+
+- [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2?tab=readme-ov-file#-models-zoo) 
+- [Hunyuan3D-2mini](https://github.com/Tencent-Hunyuan/Hunyuan3D-2?tab=readme-ov-file#-models-zoo) 
+- [Hunyuan3D-2mv](https://github.com/Tencent-Hunyuan/Hunyuan3D-2?tab=readme-ov-file#-models-zoo) 
+
+
+#### Community Supported Model
+
+- [HoloPart](https://github.com/VAST-AI-Research/HoloPart): Generative 3D Part Amodal Segmentation
+- [TripoSG](https://github.com/VAST-AI-Research/TripoSG): High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models
+- [DetailGen3D](https://github.com/VAST-AI-Research/DetailGen3D): Generative 3D Geometry Enhancement via Data-Dependent Flow
+- [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D): High-fidelity Mesh Generation
+with 3D Native Generation and Interactive Geometry Refiner
+- [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D): Towards High-Fidelity and Controllable Generation of Textured 3D Assets
+- [PartPacker](https://github.com/NVlabs/PartPacker): Efficient Part-level 3D Object Generation via Dual Volume Packing
+
+
 ## How to Use?
 
 Visit **[Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)** to access the integration of FlashVDM with Hunyuan3D-2.
@@ -55,42 +74,6 @@ pipeline(
 +   num_inference_steps=5,
 )[0]
 ```
-
-## Supported Models
-
-### Official 
-Hunyuan3D-2 series
-
-| Model                    | Description                 | Date       | Size | Huggingface                                                                               |
-| ------------------------ | --------------------------- | ---------- | ---- | ----------------------------------------------------------------------------------------- |
-| Hunyuan3D-DiT-v2-0-Fast  | Guidance Distillation Model | 2025-02-03 | 1.1B | [Download](https://huggingface.co/tencent/Hunyuan3D-2/tree/main/hunyuan3d-dit-v2-0-fast)  |
-| Hunyuan3D-DiT-v2-0-Turbo | Step Distillation Model     | 2025-03-15 | 1.1B | [Download](https://huggingface.co/tencent/Hunyuan3D-2/tree/main/hunyuan3d-dit-v2-0-turbo) |
-
-
-Hunyuan3D-2mini series
-
-| Model                       | Description                 | Date       | Size | Huggingface                                                                                      |
-| --------------------------- | --------------------------- | ---------- | ---- | ------------------------------------------------------------------------------------------------ |
-| Hunyuan3D-DiT-v2-mini-Fast  | Guidance Distillation Model | 2025-02-03 | 0.6B | [Download](https://huggingface.co/tencent/Hunyuan3D-2mini/tree/main/hunyuan3d-dit-v2-mini-fast)  |
-| Hunyuan3D-DiT-v2-mini-Turbo | Step Distillation Model     | 2025-03-15 | 0.6B | [Download](https://huggingface.co/tencent/Hunyuan3D-2mini/tree/main/hunyuan3d-dit-v2-mini-turbo) |
-
-
-Hunyuan3D-2mv series
-
-| Model                     | Description                 | Date       | Size | Huggingface                                                                                  |
-| ------------------------- | --------------------------- | ---------- | ---- | -------------------------------------------------------------------------------------------- |
-| Hunyuan3D-DiT-v2-mv-Fast  | Guidance Distillation Model | 2025-03-19 | 1.1B | [Download](https://huggingface.co/tencent/Hunyuan3D-2mv/tree/main/hunyuan3d-dit-v2-mv-fast)  |
-| Hunyuan3D-DiT-v2-mv-Turbo | Step Distillation Model     | 2025-03-19 | 1.1B | [Download](https://huggingface.co/tencent/Hunyuan3D-2mv/tree/main/hunyuan3d-dit-v2-mv-turbo) |
-
-### Community
-
-- [HoloPart](https://github.com/VAST-AI-Research/HoloPart): Generative 3D Part Amodal Segmentation
-- [TripoSG](https://github.com/VAST-AI-Research/TripoSG): High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models
-- [DetailGen3D](https://github.com/VAST-AI-Research/DetailGen3D): Generative 3D Geometry Enhancement via Data-Dependent Flow
-- [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D): High-fidelity Mesh Generation
-with 3D Native Generation and Interactive Geometry Refiner
-- [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D): Towards High-Fidelity and Controllable Generation of Textured 3D Assets
-- [PartPacker](https://github.com/NVlabs/PartPacker): Efficient Part-level 3D Object Generation via Dual Volume Packing
 
 ## Citation
 

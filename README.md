@@ -39,6 +39,7 @@ It features two techniques for both VAE and DiT acceleration:
 - [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2?tab=readme-ov-file#-models-zoo) 
 - [Hunyuan3D-2mini](https://github.com/Tencent-Hunyuan/Hunyuan3D-2?tab=readme-ov-file#-models-zoo) 
 - [Hunyuan3D-2mv](https://github.com/Tencent-Hunyuan/Hunyuan3D-2?tab=readme-ov-file#-models-zoo) 
+- [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
 
 
 #### Community Supported Model
